@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c7ec3132.css",
-    "main.js": "./static/js/main.ec3f505b.js",
+    "main.js": "./static/js/main.d486b1c9.js",
     "static/media/capa1.jpg": "./static/media/capa1.9785fec9d0bd3a02efdc.jpg",
     "static/media/piscina-vip.png": "./static/media/piscina-vip.584e5061d99f67cd0199.png",
     "static/media/piscina-luxo.jpg": "./static/media/piscina-luxo.9feedea52866e9d5b59a.jpg",
@@ -22,10 +22,10 @@
     "static/media/ref1.jpeg": "./static/media/ref1.a3e1a3a2fdc69fc8d3d7.jpeg",
     "index.html": "./index.html",
     "main.c7ec3132.css.map": "./static/css/main.c7ec3132.css.map",
-    "main.ec3f505b.js.map": "./static/js/main.ec3f505b.js.map"
+    "main.d486b1c9.js.map": "./static/js/main.d486b1c9.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.ec3f505b.js"
+    "static/js/main.d486b1c9.js"
   ]
 }
